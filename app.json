@@ -13,7 +13,7 @@
             "required": true
         },
         "APP_ID": {
-            "description": "ضع ابب ايدي المكون من 6 ارقام",
+            "description": "ضع ابب ايدي المكون من 8 ارقام",
             "value": "",
             "required": true
         },
